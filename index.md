@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Music writer, video game creator and programmer. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Here I'll post about anything I'm curious about, or working on. 
