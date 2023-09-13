@@ -12,11 +12,12 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 #### Some T-SQL Code
 
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
+```python
+test_loss, test_acc = model.evaluate(test_data, test_labels)
+print("Test Accuracy:", test_acc)
+
+# Save the trained model
+model.save('image_classification_model.h5')
 ```
 
 #### Some PowerShell Code
